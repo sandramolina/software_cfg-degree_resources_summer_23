@@ -9,6 +9,7 @@ Want to contribute? Check out the instructions.md file.
 Any tutorials, guides, or walkthroughs that are relevant to the coding course.
 | Resource | Link | Description (why to love?) |
 | ------------------- | ------------------------ | ----------------------- |
+| SQL Tutorial for Beginners | https://www.youtube.com/watch?v=-fW2X7fh7Yg | This course covers the basics of relational databases and SQL |
 
 ### External Links<br>
 
@@ -21,6 +22,8 @@ These links can point to relevant articles, documentation, videos, or online res
 Any additional resources that you want to share with others, such as recommended articles, documentation, books, blogs, podcasts, apps or online courses.
 | Resource | Link | Type | Description (why to love?) |
 | ------------------- | ------------------------ | ----------------------- | ----------------------- |
+| Mimo | https://mimo.org/ | App | Mobile app with daily coding challenges |
+| W3 Schools | https://www.w3schools.com/ | Website | Handy website with loads of information for different languages |
 
 ### Contributions<br>
 
