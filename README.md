@@ -24,6 +24,8 @@ Any additional resources that you want to share with others, such as recommended
 | ------------------- | ------------------------ | ----------------------- | ----------------------- |
 | Mimo | https://mimo.org/ | App | Mobile app with daily coding challenges |
 | W3 Schools | https://www.w3schools.com/ | Website | Handy website with loads of information for different languages |
+| Unsplash | https://unsplash.com/ | Website | Database with free images to download/use for building websites |
+| HTML5 UP | https://html5up.net/ | Website | Free website templates to use for future projects or portfolio |
 
 ### Contributions<br>
 
