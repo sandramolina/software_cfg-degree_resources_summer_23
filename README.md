@@ -9,7 +9,8 @@ Want to contribute? Check out the instructions.md file.
 Any tutorials, guides, or walkthroughs that are relevant to the coding course.
 | Resource | Link | Description (why to love?) |
 | ------------------- | ------------------------ | ----------------------- |
-| SQL Tutorial for Beginners | https://www.youtube.com/watch?v=-fW2X7fh7Yg | This course covers the basics of relational databases and SQL |
+| SQL Tutorial for Beginners | https://www.youtube.com/watch?v=-fW2X7fh7Yg | This course covers the basics of relational databases and SQL (5h 25m)|
+| MySQL Tutorial for Beginners | https://www.youtube.com/watch?v=7S_tz1z_5bA&t=42s | Intro course to MySQL (3h 10m) |
 
 ### External Links<br>
 
