@@ -30,3 +30,12 @@ Any additional resources that you want to share with others, such as recommended
 ### Contributions<br>
 
 This is a showcase of the collective effort and contributions from participants.
+
+<p align = "left">
+    <a href='https://github.com/clgonzalez93'>
+        Clara Londoño
+    </a><br>
+    <a href='https://github.com/sandramolina'>
+        Sandra Molina Palencia
+    </a>
+</p>
