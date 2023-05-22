@@ -4,12 +4,20 @@ Welcome to the CFGDegree Student Resources repository! This repository is dedica
 
 Want to contribute? Check out the instructions.md file.
 
-### Tutorials and Guides<br>
+### SQL Tutorials and Guides<br>
 
 Any tutorials, guides, or walkthroughs that are relevant to the coding course.
 | Resource | Link | Description (why to love?) |
 | ------------------- | ------------------------ | ----------------------- |
-| SQL Tutorial for Beginners | https://www.youtube.com/watch?v=-fW2X7fh7Yg | This course covers the basics of relational databases and SQL |
+| SQL Tutorial for Beginners | https://www.youtube.com/watch?v=-fW2X7fh7Yg | This course covers the basics of relational databases and SQL (5h 25m)|
+| MySQL Tutorial for Beginners | https://www.youtube.com/watch?v=7S_tz1z_5bA&t=42s | Intro course to MySQL (3h 10m) |
+| What is a Database Transaction? | https://www.youtube.com/watch?v=wHUOeXbZCYA | Explanation of Transactions in SQL (10m) |
+
+### Pyhton Tutorials and Guides<br>
+
+Any tutorials, guides, or walkthroughs that are relevant to Python in the coding course.
+| Resource | Link | Description (why to love?) |
+| ------------------- | ------------------------ | ----------------------- |
 
 ### External Links<br>
 
