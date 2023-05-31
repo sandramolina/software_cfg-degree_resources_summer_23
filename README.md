@@ -29,6 +29,7 @@ Any tutorials, guides, or walkthroughs that are relevant to Python in the coding
 | Automate the Boring Stuff (Book) | https://automatetheboringstuff.com/ | Super practical and fun guide to learn Python |
 | Python3 Official Docs | https://docs.python.org/3/library/ |Official documentation for Python - useful for reading about most - if not all - things Python|
 | Built-in functions | https://www.w3schools.com/python/python_ref_functions.asp | Useful to quick search what we can do out of the box on Python |
+| Truthy/Falsy | https://www.freecodecamp.org/news/truthy-and-falsy-values-in-python/ | Key concepts explained on Python |
 
 <hr>
 
