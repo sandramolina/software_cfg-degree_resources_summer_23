@@ -7,7 +7,8 @@ Want to contribute? Check out the instructions.md file.
 ### Kenny's really useful cheatsheets
 
 * [The Command Line](./cheat.sheets/cli.md)
-* [The easy way to install software)(./cheat.sheets/install.software.md)
+* [The easy way to install software](./cheat.sheets/install.software.md)
+* [Package management](./cheat.sheets/package.management.md)
 
 <hr>
 
