@@ -4,9 +4,14 @@ Welcome to the CFGDegree Student Resources repository! This repository is dedica
 
 Want to contribute? Check out the instructions.md file.
 
+### Kenny's really useful cheatsheets
+
+* [The Command Line](./cheat.sheets/cli.md)
+* [The easy way to install software)(./cheat.sheets/install.software.md)
+
 <hr>
 
-### SQL Tutorials and Guides<br>
+### SQL Tutorials and Guides
 
 Any tutorials, guides, or walkthroughs that are relevant to the SQL.
 | Resource | Link | Description (why to love?) |
@@ -19,7 +24,7 @@ Any tutorials, guides, or walkthroughs that are relevant to the SQL.
 
 <hr>
 
-### Pyhton Tutorials and Guides<br>
+### Python Tutorials and Guides
 
 Any tutorials, guides, or walkthroughs that are relevant to the Python.
 
@@ -44,7 +49,7 @@ Any tutorials, guides, or walkthroughs that are relevant to Python in the coding
 
 <hr>
 
-### Additional Resources<br>
+### Additional Resources
 
 Any additional resources that you want to share with others, such as recommended articles, documentation, books, blogs, podcasts, apps or online courses.
 | Resource | Link | Type | Description (why to love?) |
