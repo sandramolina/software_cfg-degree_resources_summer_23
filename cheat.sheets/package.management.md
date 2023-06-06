@@ -35,8 +35,6 @@ There are two common ways of initializing a virtual environment for your project
 
 ### pipenv
 
-This is probably my preferred way of initiating a virtual environment, mainly because it most resembles the way other languages do it.
-
 You'll have to install the `pipenv` program first. You can do this using `pip install --user pipenv`.
 
 Then
@@ -45,6 +43,9 @@ Then
 * Install a library using `pipenv install requests`
 * You'll notice a `Pipfile` that contains information about what libraries are installed, and a `Pipfile.lock` that specifies exactly what version of your libraries are installed, in your folder
 * If you're interested, you can type `pipenv --venv` to find out where `pipenv` has put your virtual environment
+* To **activate** your virtual environment, `pipenv shell`
+* To **deactivate** your virtual environment, `exit`
+* To delete your virtual environment, delete the folder pointed to by `pipenv --venv`, the `Pipfile` file, and the `Pipfile.lock` file.
 
 ## Node and npm
 
@@ -54,3 +55,5 @@ Then
 * You'll notice a new `package.json` in the root of your project
 * Install a library using `npm install axios` (for example)
 * You notice a new entry in `package.json` for your library, a `package-lock.json` file which specifies exactly what versions of which libraries are installed and a `node_modules` folder where your libraries are stored
+* There is no need to activate/deactivate your virtual environment: it just works in node
+* To delete your virtual environment, delete the `node_modules` folder, `package.json` file, and `package-lock.json`
