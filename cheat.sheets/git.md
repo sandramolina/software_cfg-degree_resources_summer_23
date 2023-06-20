@@ -1,5 +1,52 @@
 # git
 
+## Installation
+
+The below commands will also install `gitk`, a basic GUI. You can run this from the command line from any repository. `gitk --all` will give you a graph of all git branches on that repository. `gitk &` will run `gitk` 'in the background' (so that the terminal won't wait until it's finished running).
+
+### Windows
+
+From Powershell with Administrator rights, run
+
+```bash
+choco install git
+```
+
+### macos
+
+```bash
+brew install git
+brew install git-gui
+```
+
+## Setup SSH key
+
+You will also need to set up an SSH key. Running 
+
+```bash
+ssh-keygen
+```
+
+will set one up in the standard location: your public key will be at `~/.ssh/id_rsa.pub`. This is the key that you can safely share with Github and Gitlab. Do not share your private key (`~/.ssh/id_rsa`) with anyone.
+
+## Setup Github
+
+### Share SSH key with Github
+
+* Open your public key using VS Code
+
+```
+code ~/.ssh/id_rsa.pub
+```
+
+* Copy the contents of the public key to your clipboard
+* Open [Github](https://github.com/)
+  * Set up an account if you have not done so already
+  * Click on your avatar at the top left
+  * Navigate to settings
+  * Click on SSH and GPG keys on the left
+  * Add new SSH key
+
 ## Config
 
 * `git config --global core.editor "code --wait"` - Use VS Code as default editor
