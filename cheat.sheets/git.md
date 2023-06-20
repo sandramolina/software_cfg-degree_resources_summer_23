@@ -2,7 +2,7 @@
 
 ## Installation
 
-Instructions on how to install `choco` or `brew` can be found [here](./install.software.md)
+Instructions on how to install `choco` (for Windows) or `brew` (for macos) can be found [here](./install.software.md)
 
 The below commands will also install `gitk`, a basic GUI. You can run this from the command line from any repository. `gitk --all` will give you a graph of all git branches on that repository. `gitk &` will run `gitk` 'in the background' (so that the terminal won't wait until it's finished running).
 
