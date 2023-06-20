@@ -9,6 +9,7 @@ Want to contribute? Check out the instructions.md file.
 * [The Command Line](./cheat.sheets/cli.md)
 * [The easy way to install software](./cheat.sheets/install.software.md)
 * [Package management](./cheat.sheets/package.management.md)
+* [git](./cheat.sheets/git.md)
 
 <hr>
 
