@@ -6,10 +6,10 @@ Want to contribute? Check out the instructions.md file.
 
 ### Kenny's really useful cheatsheets
 
-* [The Command Line](./cheat.sheets/cli.md)
-* [The easy way to install software](./cheat.sheets/install.software.md)
-* [Package management](./cheat.sheets/package.management.md)
-* [git](./cheat.sheets/git.md)
+- [The Command Line](./cheat.sheets/cli.md)
+- [The easy way to install software](./cheat.sheets/install.software.md)
+- [Package management](./cheat.sheets/package.management.md)
+- [git](./cheat.sheets/git.md)
 
 <hr>
 
@@ -63,6 +63,7 @@ Any additional resources that you want to share with others, such as recommended
 | HTML5 UP | https://html5up.net/ | Website | Free website templates to use for future projects or portfolio |
 | XKCD | https://xkcd.com/ | Website | Some geek fun |
 | ISO 8601 | https://en.wikipedia.org/wiki/ISO_8601 | Article | Time and dates can be a hard topic on programming, this article can be helpful to understand them a little bit better |
+| Git MOOC notes | https://snapdragon-catsup-4e7.notion.site/MOOC-Git-GitHub-0b913d2ef1f34a48ba7b7b339fc82c60 | Notes | Hannah K's notes from the Git/github MOOC |
 
 <hr>
 
